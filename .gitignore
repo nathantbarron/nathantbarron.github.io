@@ -28,6 +28,3 @@
 *.gz
 files/cv/sections/
 *.tex
-
-figs/
-files/
