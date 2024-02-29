@@ -1,0 +1,37 @@
+project:
+  type: website
+
+website:
+  title: "Nathan T. Barron"
+  search: false
+  favicon: 'figs/favicon.png'
+  navbar:
+    pinned: true
+    right:
+      - href: index.qmd
+        text: Home
+      - href: pages/research.qmd
+        text: Research
+      - href: files/cv/NathanBarron-CV.pdf
+        text: CV
+        target: _blank
+        
+  page-footer:
+    background: light
+    left:
+      - "Copyright 2024, Nathan Barron"
+    right:
+    - icon: twitter
+      href: https://twitter.com/nathantbarron
+    - icon: mortarboard-fill
+      href: https://scholar.google.com/citations?hl=en&user=x1NBMCgAAAAJ
+    - icon: github
+      href: https://github.com/nathantbarron
+
+format:
+  html:
+    toc: true
+    mainfont: Jost
+    theme: 
+      - styles.scss
+      

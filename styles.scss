@@ -1,0 +1,25 @@
+/*-- scss:defaults --*/
+
+// Import fonts
+@import url('https://fonts.googleapis.com/css2?family=Jost:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Jost:wght@700&display=swap');
+
+// Colors
+$oxfordblue: #0A2342;
+$white: #FFFFFF;
+$indianred: #E5625e;
+$neonblue: #446DF6;
+
+
+
+
+// Base document colors
+$navbar-bg: $white; // navbar
+$navbar-fg: $oxfordblue; // navbar foreground elements
+$navbar-hl: $neonblue; // highlight color when hovering over navbar links
+$body-bg: $white; // page background 
+$body-color: $oxfordblue; // page text 
+$footer-bg: $oxfordblue; // footer
+$footer-fg: $white;
+$link-color: $indianred; // hyperlinks 

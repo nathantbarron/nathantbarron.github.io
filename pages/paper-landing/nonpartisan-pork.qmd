@@ -1,0 +1,11 @@
+---
+title: ""
+---
+
+<h1>Nonpartisan Pork: Partisan Issues and the Effectiveness of Credit Claiming</h1>
+
+*Nathan Barron and Peter McLaughlin*
+
+**Abstract:** Traditional accounts of Congressional politics suggest that distributive (or “pork barrel”) spending can help members of Congress (MCs) increase electoral support by cultivating a personal vote. However, the potential to realize these nonpartisan benefits is uncertain in contexts of high partisan polarization. Drawing on recent literature that shows people are sensitive to implicit party cues, we test a theory of partisan issue ownership in the context of Congressional credit-claiming. Using a survey experiment where respondents are presented with fabricated press releases from their actual member of Congress, we consider whether implicit party associations shape the electoral benefits to be gained from credit-claiming. We find that constituents are more likely to increase their approval for their representative when claiming credit for increased spending on a “nonpartisan” issue. While partisanship colors much of Congressional politics, our findings suggest that distributive politics offer MCs an opportunity to simultaneously strengthen support and ease opposition.
+
+*Paper:* [Link](../../files/working-papers/nonpartisan-pork-wp.pdf)

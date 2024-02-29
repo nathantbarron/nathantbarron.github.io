@@ -1,0 +1,39 @@
+---
+title: ""
+---
+
+### Recent Publications
+
+<ol reversed>
+  <div>
+  <li> **Barron, Nathan T.**, and Peter T. McLaughlin. Forthcoming. ["Experimental Evidence of the Benefits and Risks of Credit Claiming and Pork Busting."](https://doi.org/10.1111/lsq.12425){target="_blank"} *Legislative Studies Quarterly.* <br> </li>
+</ol>
+
+
+### Papers Under Review 
+
+-   "Christian Nationalism and Foreign Policy Attitudes." with Katie Peach.
+
+-   "Credible Claims: The Effect of Committee Positioning on Congressional Credit Claiming." with Peter McLaughlin.
+
+-   "Elections, Partisan Advantage, and Public Opinion on the Filibuster." with Peter McLaughlin, Rachel Blum, Bennie Ashton, Charles Finocchiaro, and Michael Crespin.
+
+-   "Ends Versus Means: Public Opinion on Congressional Redistricting." with Peter McLaughlin, Peter Olson, Rachel Blum, Bennie Ashton, Charles Finocchiaro, and Michael Crespin.
+
+-   <a href="paper-landing/nonpartisan-pork.html" style="color:#0A2342; text-decoration-color: #0A2342;" target="_blank">“Nonpartisan Pork: Partisan Issues and the Effectiveness of Credit Claiming.”</a> with Peter McLaughlin.
+
+-   "Presidential Endorsements as Voter Cues: Evidence from the 2022 Midterm Elections." with Peter McLaughlin, Rachel Blum, Bennie Ashton, Charles Finocchiaro, and Michael Crespin.
+
+
+
+
+### Working Projects
+
+-   "Leveraging LLMs for Validating Treatment Language."
+
+-   “Measuring the Procedural Agenda: The Structure of Roll Call Voting in the U.S. Congress.” with Peter McLaughlin, Michael Crespin, Charles Finocchiaro, and David Rohde.
+
+-   "Schooling Reassignments and the Politics of School Desegregation." with Deven Carlson, James Carter III, Thurston Domina, Matthew Lenard, and Rachel Perera.
+
+-   "Validating A.I.-generated Visual Treatments for Survey Experiments." 
+
