@@ -2,6 +2,6 @@
 
 Thanks for checking out my github repository for my academic website. You can check out the website here: [nathantbarron.github.io](https://nathantbarron.github.io).
 
-You can also [create your own nifty website](https://quarto.org/docs/websites/){target="_blank"} with [Quarto](https://quarto.org/){target="_blank"}. Once you've created your Quarto website, you can [use Github Pages to host your website](https://docs.github.com/en/pages/quickstart){target="_blank"}.
+You can also <a href="https://quarto.org/docs/websites/" target="_blank"> create your own nifty website </a> with <a href="https://quarto.org/" target="_blank"> Quarto </a>. Once you've created your Quarto website, you can <a href="https://docs.github.com/en/pages/quickstart" target="_blank"> use Github Pages to host your website</a>.
 
-Follow me on Twitter [\@NathanTBarron](https://twitter.com/nathantbarron) and BlueSky [\@nathantbarron.bsky.social](https://bsky.app/profile/nathantbarron.bsky.social).
+Follow me on Twitter <a href="https://twitter.com/nathantbarron" target="_blank"> \@NathanTBarron</a> and BlueSky <a href="https://bsky.app/profile/nathantbarron.bsky.social" target="_blank"> \@nathantbarron.bsky.social </a>.
