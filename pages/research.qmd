@@ -6,7 +6,7 @@ title: ""
 
 <ol reversed>
   <div>
-  <li> **Barron, Nathan T.**, and Peter T. McLaughlin. Forthcoming. ["Experimental Evidence of the Benefits and Risks of Credit Claiming and Pork Busting."](https://doi.org/10.1111/lsq.12425){target="_blank"} *Legislative Studies Quarterly.* <br> </li>
+  <li> **Barron, Nathan T.**, and Peter T. McLaughlin. 2024. ["Experimental Evidence of the Benefits and Risks of Credit Claiming and Pork Busting."](https://doi.org/10.1111/lsq.12425){target="_blank"} *Legislative Studies Quarterly.* 49(1): 103-129. <br> </li>
 </ol>
 
 
