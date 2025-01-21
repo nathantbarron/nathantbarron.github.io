@@ -23,3 +23,23 @@ $body-color: $oxfordblue; // page text
 $footer-bg: $oxfordblue; // footer
 $footer-fg: $white;
 $link-color: $indianred; // hyperlinks 
+
+
+
+
+// Button actions
+.transparent-button {
+    background-color: transparent;
+    border: 1px solid black; // Set the border color to black
+    border-radius: 4px; // Add slight curve to the corners
+    color: black;
+    padding: 2px 5px;
+    font-size: 16px;
+    cursor: pointer;
+    transition: background-color 0.3s ease, border-color 0.3s ease;
+
+    &:hover {
+        color: $neonblue;
+        border-color: $neonblue;
+    }
+}

@@ -1,12 +1,29 @@
 ---
 title: ""
+format: 
+  html: 
+    css: styles.scss
 ---
 
 ### Recent Publications
 
 <ol reversed>
   <div>
-  <li> **Barron, Nathan T.**, and Peter T. McLaughlin. 2024. ["Experimental Evidence of the Benefits and Risks of Credit Claiming and Pork Busting."](https://doi.org/10.1111/lsq.12425){target="_blank"} *Legislative Studies Quarterly.* 49(1): 103-129. <br> </li>
+  <li> McLaughlin, Peter T., and **Nathan T. Barron.** *Forthcoming* <font color="#E5625e">"Credible Claims: The Effect of Committee Positioning on Congressional Credit Claiming."</font> *American Politics Research.* <br/>
+  <a href="https://doi.org/10.1177/1532673X241309632" target="_blank"><button class="transparent-button">DOI</button></a>&nbsp;
+  <a href="https://journals.sagepub.com/doi/suppl/10.1177/1532673X241309632/suppl_file/sj-pdf-1-apr-10.1177_1532673x241309632.pdf" target="_blank"><button class="transparent-button">Online Appendix</button></a>&nbsp;
+  <a href="https://doi.org/10.7910/DVN/L2G0LA" target="_blank"><button class="transparent-button">Dataverse</button></a>&nbsp;
+  <br><br> </li>
+  <li> McLaughlin, Peter T., Peter Olson, **Nathan T. Barron**, H Benjamin Ashton III, Rachel Blum, Charles J. Finnocchiaro, Michael H. Crespin. *Forthcoming* <font color="#E5625e">"Ends Versus Means: Public Opinion on Congressional Redistricting."</font> *Election Law Journal.* <br/>
+  <a href="https://doi.org/10.1089/elj.2023.0050" target="_blank"><button class="transparent-button">DOI</button></a>&nbsp;
+  <a href="https://dataverse.harvard.edu/file.xhtml?fileId=10820803&version=1.0" target="_blank"><button class="transparent-button">Online Appendix</button></a>&nbsp;
+  <a href="https://doi.org/10.7910/DVN/SEA61B" target="_blank"><button class="transparent-button">Dataverse</button></a>&nbsp;
+  <br><br> </li>
+  <li> **Barron, Nathan T.**, and Peter T. McLaughlin. 2024. <font color="#E5625e">"Experimental Evidence of the Benefits and Risks of Credit Claiming and Pork Busting."</font> *Legislative Studies Quarterly.* 49(1): 103-129. <br/>
+  <a href="https://doi.org/10.1111/lsq.12425" target="_blank"><button class="transparent-button">DOI</button></a>&nbsp;
+  <a href="https://onlinelibrary.wiley.com/action/downloadSupplement?doi=10.1111%2Flsq.12425&file=lsq12425-sup-0001-AppendixS1.pdf" target="_blank"><button class="transparent-button">Online Appendix</button></a>&nbsp;
+  <a href="https://doi.org/10.7910/DVN/ZUFWZM" target="_blank"><button class="transparent-button">Dataverse</button></a>&nbsp;
+  <br><br> </li>
 </ol>
 
 
@@ -14,26 +31,9 @@ title: ""
 
 -   "Christian Nationalism and Foreign Policy Attitudes." with Katie Peach.
 
--   "Credible Claims: The Effect of Committee Positioning on Congressional Credit Claiming." with Peter McLaughlin.
-
--   "Elections, Partisan Advantage, and Public Opinion on the Filibuster." with Peter McLaughlin, Rachel Blum, Bennie Ashton, Charles Finocchiaro, and Michael Crespin.
-
--   "Ends Versus Means: Public Opinion on Congressional Redistricting." with Peter McLaughlin, Peter Olson, Rachel Blum, Bennie Ashton, Charles Finocchiaro, and Michael Crespin.
-
--   <a href="paper-landing/nonpartisan-pork.html" style="color:#0A2342; text-decoration-color: #0A2342;" target="_blank">“Nonpartisan Pork: Partisan Issues and the Effectiveness of Credit Claiming.”</a> with Peter McLaughlin.
-
 -   "Presidential Endorsements as Voter Cues: Evidence from the 2022 Midterm Elections." with Peter McLaughlin, Rachel Blum, Bennie Ashton, Charles Finocchiaro, and Michael Crespin.
-
-
 
 
 ### Working Projects
 
--   "Leveraging LLMs for Validating Treatment Language."
-
--   “Measuring the Procedural Agenda: The Structure of Roll Call Voting in the U.S. Congress.” with Peter McLaughlin, Michael Crespin, Charles Finocchiaro, and David Rohde.
-
 -   "Schooling Reassignments and the Politics of School Desegregation." with Deven Carlson, James Carter III, Thurston Domina, Matthew Lenard, and Rachel Perera.
-
--   "Validating A.I.-generated Visual Treatments for Survey Experiments." 
-
