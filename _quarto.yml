@@ -5,7 +5,7 @@ project:
 website:
   title: "Nathan T. Barron"
   search: false
-  favicon: 'figs/favicon.png'
+  favicon: 'imgs/favicon.png'
   navbar:
     pinned: true
     right:

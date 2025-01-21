@@ -1,6 +1,6 @@
 ---
 title: ""
-image: 'figs/prof.jpg'
+image: 'imgs/prof.jpg'
 about: 
   template: trestles
   image-width: 15em
