@@ -5,9 +5,6 @@ about:
   template: trestles
   image-width: 15em
   links:
-    - icon: twitter
-      text: Twitter
-      href: https://twitter.com/nathantbarron
     - icon: mortarboard-fill
       text: Google Scholar
       href: https://scholar.google.com/citations?hl=en&user=x1NBMCgAAAAJ
@@ -20,8 +17,12 @@ format:
     
 ---
 
-I am a doctoral candidate in political science and graduate fellow with the Carl Albert Congressional Research and Studies Center at the University of Oklahoma. I earned my M.A. and B.S. in political science from the University of Southern Mississippi. 
+I am a doctoral candidate in political science and graduate research fellow with the Carl Albert Congressional Research and Studies Center at the University of Oklahoma. I previously earned an M.A. and B.S. in political science from the University of Southern Mississippi. My research centers on how political institutions shape outcomes and behavior, particularly through agenda-setting in the U.S. Congress. 
 
-My dissertation offers a new theoretical perspective on agenda setting and provides new methodological tools for incorporating theory-driven feedback into measures of the U.S. Congressional agenda. The first proposed paper explores how agenda setting affects ideological scaling under various agenda setting regimes and institutional characteristics. The second paper introduces a sequential ideal point estimation framework that addresses endogeneity concerns when determining the spatial location of proposed policy alternatives. The third paper seeks to measure and describe agenda setting regimes over time with respect to restriction severities and when control becomes relaxed. These projects draw on insights and strategies from legislative politics, policy studies, and computational methodology. 
+My dissertation *A Counterfactual Theory of Congressional Agenda-Setting* refines the conceptual and empirical framework for understanding the legislative agenda in Congress. Drawing on insights from legislative politics and public policy studies research, I argue for a new theoretical perspective on agenda-setting and demonstrate its usefulness in better understanding a range of issues in Congressional politics. My job market paper uses a computational agent-based modeling approach to demonstrate how legislative agenda-setting affects measures of Congressional polarization. 
 
-My broader research agenda centers on how institutions shape behavior, particularly in Congress and state legislatures. I also actively research religion and politics and new developments in methodology. My work has appeared in *Legislative Studies Quarterly*, *American Politics Research*, and the *Election Law Journal*. 
+My other research considers how legislators' electoral motivations shape institutional behavior, especially concerning distributive goods. In a series of papers, I and my coauthors have explored how legislators can position themselves favorably to their constituents -- and how constituents respond. These behaviors are important in understanding representation, institutional incentives, and ultimately *who gets what, where, and why.*
+
+My research has been published or is forthcoming in *Legislative Studies Quarterly*, *Political Behavior*, *American Politics Research*, and the *Election Law Journal*. 
+
+**I am on the 2025-2026 academic job market.** 

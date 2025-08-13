@@ -13,8 +13,10 @@ renv.lock
 _extensions/
 
 # Raw files
-figs/
-files/
-pages/
-imgs/
-_quarto.yml
+/figs
+/files
+/pages
+/imgs
+/_quarto.yml
+/index.qmd
+/styles.scss

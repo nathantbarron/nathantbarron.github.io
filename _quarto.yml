@@ -13,7 +13,7 @@ website:
         text: Home
       - href: pages/research.qmd
         text: Research
-      - href: files/cv/NathanBarron-CV.pdf
+      - href: files/cv/ntbarron-CV.pdf
         text: CV
         target: _blank
         
@@ -22,8 +22,6 @@ website:
     left:
       - "Copyright 2025, Nathan T. Barron"
     right:
-    - icon: twitter
-      href: https://twitter.com/nathantbarron
     - icon: mortarboard-fill
       href: https://scholar.google.com/citations?hl=en&user=x1NBMCgAAAAJ
     - icon: github

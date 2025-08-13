@@ -10,6 +10,7 @@ $oxfordblue: #0A2342;
 $white: #FFFFFF;
 $indianred: #E5625e;
 $neonblue: #446DF6;
+$dimgrey:#686963;
 
 
 
@@ -20,6 +21,7 @@ $navbar-fg: $oxfordblue; // navbar foreground elements
 $navbar-hl: $neonblue; // highlight color when hovering over navbar links
 $body-bg: $white; // page background 
 $body-color: $oxfordblue; // page text 
+$body-secondary: $dimgrey;
 $footer-bg: $oxfordblue; // footer
 $footer-fg: $white;
 $link-color: $indianred; // hyperlinks 
@@ -43,3 +45,31 @@ $link-color: $indianred; // hyperlinks
         border-color: $neonblue;
     }
 }
+
+// Cards
+.card {
+  border: 1px solid #e1e1e1;
+  border-radius: 10px;
+  padding: 1rem;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.05);
+  margin-bottom: 1rem;
+  background-color: #fff;
+  
+  &:hover {
+        color: $neonblue;
+        border-color: $neonblue;
+    }
+}
+.card-deck {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+.card-deck .card {
+  flex: 1 1 calc(33% - 1rem);
+}
+
+// Blockquote
+.blockquote {
+      margin-left: 2em;
+    }
