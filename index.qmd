@@ -17,12 +17,12 @@ format:
     
 ---
 
-I am a doctoral candidate in political science and graduate research fellow with the Carl Albert Congressional Research and Studies Center at the University of Oklahoma. I previously earned an M.A. and B.S. in political science from the University of Southern Mississippi. My research centers on how political institutions shape outcomes and behavior, particularly through agenda-setting in the U.S. Congress. 
+I am a doctoral candidate in political science and graduate research fellow with the Carl Albert Congressional Research and Studies Center at the University of Oklahoma. I previously earned an M.A. and B.S. in political science from the University of Southern Mississippi. My research focuses on the incentives, constraints, and characterization of institutional choice in the U.S. Congress. Using a variety of methodological tools, I explore both the internal politics of decision-making and the external politics of representation and re-election.
 
 My dissertation *A Counterfactual Theory of Congressional Agenda-Setting* refines the conceptual and empirical framework for understanding the legislative agenda in Congress. Drawing on insights from legislative politics and public policy studies research, I argue for a new theoretical perspective on agenda-setting and demonstrate its usefulness in better understanding a range of issues in Congressional politics. My job market paper uses a computational agent-based modeling approach to demonstrate how legislative agenda-setting affects measures of Congressional polarization. 
 
 My other research considers how legislators' electoral motivations shape institutional behavior, especially concerning distributive goods. In a series of papers, I and my coauthors have explored how legislators can position themselves favorably to their constituents -- and how constituents respond. These behaviors are important in understanding representation, institutional incentives, and ultimately *who gets what, where, and why.*
 
-My research has been published or is forthcoming in *Legislative Studies Quarterly*, *Political Behavior*, *American Politics Research*, and the *Election Law Journal*. 
+My research has been published or is forthcoming in *Legislative Studies Quarterly*, *Political Research Quarterly*, *American Politics Research*, *Political Behavior*, and the *Election Law Journal*. 
 
 **I am on the 2025-2026 academic job market.** 
