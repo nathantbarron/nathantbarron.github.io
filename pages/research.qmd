@@ -11,6 +11,8 @@ format:
 Peter T. McLaughlin and Nathan T. Barron. Forthcoming. 
 <font color="#E5625e">"Beyond Credit Claiming: Protection and Commiseration Messages in Distributive Politics."</font>
 *Political Research Quarterly.* &nbsp;
+<a href="https://doi.org/10.31235/osf.io/u289j_v1" target="_blank">{{< ai open-access size=xl color="#505A68" >}}</a>
+<a href="https://doi.org/10.7910/DVN/1KIG88" target="_blank">{{< ai open-data size=xl color="#254E70" >}}</a>
 <details style="margin-left: 40px;">
 <summary>Abstract</summary>
 > Credit claiming, where legislators highlight their role in bringing home federal spending projects to their district, has been shown to offer electoral value in an array of studies. However, congressional messaging on distributive politics expands beyond credit claiming. Distributive policy moves in two directions -- new spending and budget cuts -- leading to more types of messaging than are currently explored. Legislators often claim credit for protecting existing initiatives (protection messages) and speak out against decisions to cut district projects (commiseration messages). We develop a theory of distributive politics that incorporates the full range of congressional messaging on federal spending. Using an online survey experiment, we find that constituents are receptive to protection and commiseration messages. In fact, protection and commiseration messages are no less effective than traditional credit claims and announcement messages, respectively. These findings suggest distributive politics is about more than displaying influence; it provides legislators with a window for recognizing constituent needs, even in the absence of positive policy outcomes. 
